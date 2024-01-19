@@ -4,7 +4,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .idea/
-build.gradle.kts
+build.gradle
 gradle/
 gradlew
 gradlew.bat
