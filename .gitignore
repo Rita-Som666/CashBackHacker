@@ -4,7 +4,6 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .idea/
-build.gradle
 gradle/
 gradlew
 gradlew.bat
