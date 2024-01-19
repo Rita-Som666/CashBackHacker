@@ -9,10 +9,4 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
-    implementation "org.testng:testng:7.5.1"
-}
 
-test {
-    useTestNG()
-}
