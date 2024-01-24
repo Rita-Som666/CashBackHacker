@@ -38,8 +38,8 @@ public class CashbackHackTest {
 
     @Test
     public void shouldReturn1more1000() {
-        int actual = service.remain(1999);
         int expected = 1;
+        int actual = service.remain(1999);
         Assert.assertEquals(actual, expected);
     }
 
